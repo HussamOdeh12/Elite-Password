@@ -21,7 +21,7 @@
 .generator {
   width: 350px;
   padding: 30px;
-  /* From https://css.glass */
+  margin: 12px;
   background: rgba(255, 255, 255, 0.77);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
