@@ -1,4 +1,4 @@
-<h1 align = "center">Elite Password</h1>
+<h1 align = "center">🔒 Elite Password 🔒</h1>
 
 <h3 align = "center">Introducing "Elite Password" – your ultimate password generation solution built with the power of React. Safeguarding your digital life has never been easier. With Elite Password, experience the convenience of generating complex, highly secure passwords at your fingertips.</h3>
 
@@ -6,10 +6,10 @@
 
 - HTML
 - CSS
-- ReactJs
+- ReactJs - Vitejs
 - Visual Studio Code
 
-### Live Demo: [Elite-Password](http://HussamOdeh12/github.io/Elite-Password)
+### Live Demo: [Elite-Password](https://hussamodeh12.github.io/Elite-Password/)
 
 <hr>
 
